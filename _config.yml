@@ -86,9 +86,9 @@ author:
   location         : "Magdeburg, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=BnKzCboAAAAJ&hl=de"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Laura-Koenig-Mattern"
+  googlescholar    : "https://scholar.google.com/citations?user=BnKzCboAAAAJ&hl=de&oi=sra"
+  email            : "koenig-mattern@mpi-magdeburg.mpg.de"
+  researchgate     : "https://www.researchgate.net/profile/Laura-Koenig-Mattern"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@koenigmattern"
+  twitter          : "koenigmattern"
   vine             :
   weibo            :
   xing             :
