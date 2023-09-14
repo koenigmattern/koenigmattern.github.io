@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "add"
 title_separator          : "-"
-name                     : &name "add"
-description              : &description "add"
+name                     : &name "Laura König-Mattern"
+description              : &description "I am a PhD student in the Process Systems Engineering group of Prof. Kai Sundmacher at the Max Planck Institute for Dynamics of Complex Technical Systems in Magdeburg. Here, I develop biorefinery processes for lignocellulose and algal biomass. My work lies at the nexus of computational and experimental work. In the past years, I gathered expertise in high-throughput solvent selection and computer-aided molecular design. I was a guest PhD student at the Laboratory of Sustainable and Catalytic Processing led by Prof. Jeremy Luterbacher at EPFL in Lausanne, Switzerland."
 url                      : https://koenigmattern.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "koenigmattern/koenigmattern.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Laura König-Mattern"
+  avatar           : "LKM_profile.jpg"
+  bio              : "PhD student in Process Systems Engineering"
+  location         : "Magdeburg, Germany"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=BnKzCboAAAAJ&hl=de"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Laura-Koenig-Mattern"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/laura-k%C3%B6nig-mattern-4b9322278/"
+  orcid            : "https://orcid.org/0000-0003-4412-258X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@koenigmattern"
   vine             :
   weibo            :
   xing             :
