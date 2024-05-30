@@ -15,7 +15,7 @@ My work lies at the nexus of computational and experimental work. In the past ye
 
 Upcoming talks
 ======
-Looking forward to meeting you at ESCAPE34 in Florence! If you're interested in computer-aided molecular design for lignin processing, I'm happy to see you at talk on Wednesday, 11:40 a.m., June 4, 2024 (Bioresources Session, Room: Mod-21).
+Looking forward to meeting you at ESCAPE34 in Florence! If you're interested in computer-aided molecular design for lignin processing, I warmly welcome you at my talk on Wednesday, 11:40 a.m., June 4, 2024 (Bioresources Session, Room: Mod-21).
 
 I'll be giving a keynote lecture about "Tailored solvent design for lignin dissolution using graph neural networks" at ECCE/ECAB in Berlin!
 Join the Biorefinery session on Monday, 11:00 a.m., Sept 18, 2023 Looking forward to chat with you!
