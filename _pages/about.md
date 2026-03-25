@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I lead the [Computational Biorefining](https://transforming-chemistry.org/en/research/research-groups/) group at the Center for the Transformation of Chemistry (CTC). Our research explores how we can design the chemicals and processes of the future so that they are compatible with a circular and sustainable economy. Simply replacing fossil feedstocks with renewable ones is not enough: future chemicals must be circular by design: biodegradable, recyclable, able to close material loops, and capable of meeting demanding industrial performance requirements.
+I lead the [Computational Biorefining](https://transforming-chemistry.org/en/research/research-groups/) group at the Center for the Transformation of Chemistry (CTC). Our research explores how we can design the chemicals and processes of the future so that they are compatible with a circular and sustainable economy. Simply replacing fossil feedstocks with renewable ones is not enough. Future chemicals must be circular by design: biodegradable, recyclable, able to close material loops, and capable of meeting demanding industrial performance requirements.
 
 Our work focuses on developing computational tools that help scientists and engineers design greener chemical processes and bio-based products more efficiently. We apply a systems approach where we aim to understand and to optimize these processes across multiple scales: from molecular design, over reaction engineering, thermodynamic modelling, to a full process optimization.
 
